@@ -1,0 +1,27 @@
+{
+  "name": "selector",
+  "version": "1.0.0",
+  "description": "A js boilerplate to use document.querySelector",
+  "main": "src/selector.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrescalco/selector.git"
+  },
+  "keywords": [
+    "js",
+    "jquery",
+    "selector",
+    "document",
+    "query",
+    "selector"
+  ],
+  "author": "André Scalco <andrefelipescalco@gmail.com> (http://andrescalco.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrescalco/selector/issues"
+  },
+  "homepage": "https://github.com/andrescalco/selector#readme"
+}
