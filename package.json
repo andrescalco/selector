@@ -1,5 +1,5 @@
 {
-  "name": "selector",
+  "name": "@andre_scalco/selector",
   "version": "1.0.0",
   "description": "A js boilerplate to use document.querySelector",
   "main": "src/selector.js",
